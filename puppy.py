@@ -1,0 +1,2 @@
+name = 'mong'
+print(name)
